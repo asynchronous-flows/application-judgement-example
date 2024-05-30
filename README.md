@@ -8,6 +8,8 @@ Built with `asyncflows`
 [![main repo](https://img.shields.io/badge/main_repo-1f425f)](https://github.com/asynchronous-flows/asyncflows)
 [![Discord](https://img.shields.io/badge/discord-7289da)](https://discord.gg/AGZ6GrcJCh)
 
+![application judgement](https://github.com/asynchronous-flows/application-judgement-example/assets/24586651/304c4b15-b385-4ae5-bce5-16c95e1a680c)
+
 </div>
 
 ## Introduction
