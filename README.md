@@ -1,6 +1,6 @@
 <div align="center">
 <h1>
-Application Judgement
+Application Judgement Example
 </h1>
 
 Built with `asyncflows`
@@ -13,6 +13,10 @@ Built with `asyncflows`
 ## Introduction
 
 This flow analyzes an application for a startup accelerator. 
+
+<div align="center">
+<img width="955" alt="application judgement" src="https://github.com/asynchronous-flows/asyncflows-internal/assets/24586651/6a39d417-80b6-4cde-99c4-2ac26edfa4d3">
+</div>
 
 ## Running the Example
 
