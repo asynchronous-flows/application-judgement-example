@@ -17,7 +17,7 @@ Built with `asyncflows`
 This flow analyzes an application for a startup accelerator. 
 
 <div align="center">
-<img width="955" alt="application judgement" src="https://github.com/asynchronous-flows/asyncflows-internal/assets/24586651/6a39d417-80b6-4cde-99c4-2ac26edfa4d3">
+<img width="955" alt="application judgement" src="https://github.com/asynchronous-flows/application-judgement-example/assets/24586651/6c5b215d-b02f-4ce1-b904-f2088ec7173d">
 </div>
 
 ## Running the Example
